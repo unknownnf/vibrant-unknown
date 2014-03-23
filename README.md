@@ -55,3 +55,7 @@ Scheme uses `Source Code Pro` or `Consolas` fonts, it works without them but it 
 * YAML
 * Spy-js
 * .htaccess - http://plugins.jetbrains.com/plugin/6834?pr=idea
+* Google Go - http://plugins.jetbrains.com/plugin/5047?pr=idea
+* Haskell - http://plugins.jetbrains.com/plugin/6330?pr=idea
+* Pascal - http://plugins.jetbrains.com/plugin/7340?pr=idea
+* Slim - http://plugins.jetbrains.com/plugin/7128?pr=idea
