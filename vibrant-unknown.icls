@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<scheme name="Vibrant Unknown" version="2" parent_scheme="Default">
+<scheme name="Vibrant Unknown" version="124" parent_scheme="Default">
   <option name="LINE_SPACING" value="1.0" />
   <font>
     <option name="EDITOR_FONT_NAME" value="Source Code Pro" />
@@ -102,6 +102,82 @@
       <value>
         <option name="FOREGROUND" value="e66600" />
         <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="BATCH.BRACES">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="BATCH.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a83ee6" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="BATCH.ENVIRONMENT_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="BATCH.ENVIRONMENT_VARIABLE_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="e6e199" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="BATCH.EXPRESSION">
+      <value>
+        <option name="BACKGROUND" value="202020" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="BATCH.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e66600" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="BATCH.LABEL">
+      <value>
+        <option name="FOREGROUND" value="e6b531" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="BATCH.LABEL_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="e6b531" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="BATCH.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="44b4cc" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="BATCH.OPERATION_SIGN">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="BATCH.PARENTHS">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="BATCH.STRING">
+      <value>
+        <option name="FOREGROUND" value="63e600" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="BATCH.VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="BREAKPOINT_ATTRIBUTES">
@@ -530,6 +606,87 @@
       <value>
         <option name="FOREGROUND" value="90b4cd" />
         <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Cmd.BRACES">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Cmd.COMMENT">
+      <value>
+        <option name="FOREGROUND" value="a83ee6" />
+        <option name="FONT_TYPE" value="2" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Cmd.ENVIRONMENT_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Cmd.ENVIRONMENT_VARIABLE_DEFINITION">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Cmd.EXPRESSION">
+      <value>
+        <option name="BACKGROUND" value="202020" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Cmd.KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="e66600" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Cmd.LABEL">
+      <value>
+        <option name="FOREGROUND" value="e6b531" />
+        <option name="FONT_TYPE" value="1" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Cmd.LABEL_REFERENCE">
+      <value>
+        <option name="FOREGROUND" value="e6b531" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="Cmd.NUMBER">
+      <value>
+        <option name="FOREGROUND" value="44b4cc" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Cmd.OPERATION_SIGN">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Cmd.PARENTHS">
+      <value>
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Cmd.STRING">
+      <value>
+        <option name="FOREGROUND" value="63e600" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
+    <option name="Cmd.VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="fffab1" />
+        <option name="FONT_TYPE" value="3" />
+        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="Comment">
@@ -1279,6 +1436,12 @@
         <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
+    <option name="MARKDOWN.CODE">
+      <value>
+        <option name="BACKGROUND" value="202020" />
+        <option name="EFFECT_TYPE" value="0" />
+      </value>
+    </option>
     <option name="MARKDOWN.DEFINITION_TERM">
       <value>
         <option name="FONT_TYPE" value="1" />
@@ -1350,6 +1513,12 @@
       <value>
         <option name="FONT_TYPE" value="1" />
         <option name="EFFECT_TYPE" value="-1" />
+      </value>
+    </option>
+    <option name="MARKDOWN.TEXT">
+      <value>
+        <option name="FOREGROUND" value="ffffff" />
+        <option name="EFFECT_TYPE" value="0" />
       </value>
     </option>
     <option name="MARKDOWN.VERBATIM">
